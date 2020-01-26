@@ -1,6 +1,5 @@
 package trees;
 
-import com.sun.source.tree.Tree;
 
 public class MinTree {
     private static class TreeNode {
